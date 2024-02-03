@@ -1,17 +1,12 @@
 <h1 align="center">Star Wars Characters</h1>
 
-<p align="center">
-Este é um projeto aberto. Confira a seguir informações relevantes sobre ele.<br/>
-</p>
-
-
 
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="" width="100%">
+  <img alt="imagem do projeto" src="./assets/preview.png.png" width="100%">
 </p>
-
+<br>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
